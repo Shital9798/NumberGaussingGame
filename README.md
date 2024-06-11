@@ -1,7 +1,7 @@
 # Simple Number Gaussing Game
 
 ## Description
-This Java project implements a simple yet engaging "Number Gaussing" game where players embark on a quest to find hidden treasures by guessing the correct number. The game provides interactive feedback and allows players to choose from a variety of treasures upon successful completion.
+This Java project implements a simple yet engaging "Number Guessing" game where players embark on a quest to find hidden treasures by guessing the correct number. The game provides interactive feedback and allows players to choose from a variety of treasures upon successful completion.
 
 ## How to Play
 1. Run the Main.java file.
