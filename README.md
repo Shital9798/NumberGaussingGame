@@ -23,6 +23,6 @@ This Java project implements a simple yet engaging "Number Gaussing" game where 
   - Allows the user to choose a treasure from the chest upon correct guess.
   - Applies effects of the chosen item on the player's health and intelligence.
   - Continues gameplay until the treasure is found or the user decides to quit.
-- For a detailed explanation of the code, visit the GitHub repository [here](https://github.com/yourusername).
+
 
 Happy treasure hunting!
